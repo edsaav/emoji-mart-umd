@@ -4,3 +4,4 @@ dist/
 dist-es/
 stats.json
 report.html
+npm-debug.log
